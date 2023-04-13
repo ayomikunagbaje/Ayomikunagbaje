@@ -8,7 +8,7 @@ Meet Me 😎
 
 - I am pondered with lot of questions regarding science, technology, general workings of being and more particularly Data Analytics/Science. I am open to conversations     revolving these subjects and beyond.
 
-- I speak Python and SQL, skilled in Excel, Microsoft PowerBi, Exploratory Data Analysis, Modeling and Visualization.
+- I speak Python and SQL, skilled in Microsoft Excel, Microsoft PowerBi, Exploratory Data Analysis, Modeling and Visualization.
 
 - I play Tennis, Scrabble, Chess and sometimes video games.
 
